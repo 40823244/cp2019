@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'http://mde.tw/cp2019 \xa0 \n \n \n', 'tags': '', 'url': 'About.html'}, {'title': 'USB2', 'text': '', 'tags': '', 'url': 'USB2.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'http://mde.tw/cp2019 \xa0 \n \n \n 阻尼係數=1 \n \n 阻尼係數=0 \n \n', 'tags': '', 'url': 'About.html'}, {'title': 'USB2', 'text': '', 'tags': '', 'url': 'USB2.html'}]};
