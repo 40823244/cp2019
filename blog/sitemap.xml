@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://40823244.github.io/cp2019/blog/</loc>
-<lastmod>2019-11-06T09:32:39-00:00</lastmod>
+<lastmod>2019-11-06T09:50:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40823244.github.io/cp2019/blog/archives.html</loc>
-<lastmod>2019-11-06T09:32:39-00:00</lastmod>
+<lastmod>2019-11-06T09:50:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40823244.github.io/cp2019/blog/tags.html</loc>
-<lastmod>2019-11-06T09:32:39-00:00</lastmod>
+<lastmod>2019-11-06T09:50:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40823244.github.io/cp2019/blog/categories.html</loc>
-<lastmod>2019-11-06T09:32:39-00:00</lastmod>
+<lastmod>2019-11-06T09:50:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,7 +47,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://40823244.github.io/cp2019/blog/embedded-darpad-to-blog.html</loc>
-<lastmod>2018-09-10T11:00:00+08:00</lastmod>
+<lastmod>2019-11-05T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
