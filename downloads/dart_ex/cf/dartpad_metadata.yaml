@@ -1,6 +1,6 @@
-name: CF
+name: cf
 mode: html
 files:
-  - name: CF.dart
+  - name: cf.dart
   - name: index.html
   - name: style.css
