@@ -60,7 +60,6 @@
 <v t="leo.20180423103639.1"><vh>2019 Fall CP 課程</vh>
 <v t="leo.20191211235216.1"><vh>@edit 20191031-1.md</vh></v>
 <v t="leo.20191211235208.1"><vh>@edit 20191031.md</vh></v>
-<v t="leo.20191211235203.1"><vh>@edit 20191203-1.md</vh></v>
 <v t="leo.20191211225312.1"><vh>@edit 20191203.md</vh></v>
 <v t="leo.20191107224150.1"><vh>@edit 20191107.md</vh></v>
 </v>
@@ -78,7 +77,7 @@
 <t tx="leo.20170709224430.1">@language python
 import os
 
-os.system("pelican markdown -o blog -s local_publishconf.py")
+os.system("pelican markdown -o blog -s publishconf.py")
 g.es("admin pelican Github 執行完畢")
 
 
