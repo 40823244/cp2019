@@ -3,25 +3,7 @@
 </summary><content type="html">&lt;p&gt;w12 作業 &lt;/p&gt;
 
 
-&lt;p&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=BeTf_2yF1-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-=======
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=BeTf_2yF1-s"0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1813c5fb16e484350e025f26e1d1ff0211cb3280&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;</content><category term="2019FallCP"></category></entry><entry><title>W10-12作業影片</title><link href=".%5CHomework%20video.html" rel="alternate"></link><published>2019-12-03T17:00:00+08:00</published><updated>2019-12-03T17:00:00+08:00</updated><author><name>40823244</name></author><id>tag:None,2019-12-03:.\Homework video.html</id><summary type="html">&lt;p&gt;溫度轉換程式&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=BeTf_2yF1-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2019FallCP"></category></entry><entry><title>W10-12作業影片</title><link href=".%5CHomework%20video.html" rel="alternate"></link><published>2019-12-03T17:00:00+08:00</published><updated>2019-12-03T17:00:00+08:00</updated><author><name>40823244</name></author><id>tag:None,2019-12-03:.\Homework video.html</id><summary type="html">&lt;p&gt;溫度轉換程式&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;溫度轉換程式&lt;/p&gt;
 
 
@@ -119,29 +101,17 @@ if PLAT_WIN
 
 &lt;script&gt;
 function getDart(dirname){
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:markdown/20191031-1.md
     source = "https://dartpad.github.io/embed-dart.html?gh_owner=40823245&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/" + dirname + "&amp;theme=dark";
-=======
-    source = "https://dartpad.github.io/embed-dart.html?gh_owner=40823244&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/" + dirname + "&amp;theme=dark";
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1813c5fb16e484350e025f26e1d1ff0211cb3280:markdown/20191105-1.md
     document.getElementById("iframe").src = source ;
 }
 
 function getHtmlDart(dirname){
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:markdown/20191031-1.md
     source = "https://dartpad.github.io/embed-html.html?gh_owner=40823245&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/" + dirname + "&amp;theme=dark";
-=======
-    source = "https://dartpad.github.io/embed-html.html?gh_owner=40823244&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/" + dirname + "&amp;theme=dark";
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1813c5fb16e484350e025f26e1d1ff0211cb3280:markdown/20191105-1.md
 document.getElementById("iframe").src = source ;
 }
 
 function getFlutter(dirname){
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:markdown/20191031-1.md
     source = "https://dartpad.github.io/embed-flutter.html?gh_owner=40823245&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/" + dirname + "&amp;theme=dark";
-=======
-    source = "https://dartpad.github.io/embed-flutter.html?gh_owner=40823244&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/" + dirname + "&amp;theme=dark";
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1813c5fb16e484350e025f26e1d1ff0211cb3280:markdown/20191105-1.md
 document.getElementById("iframe").src = source ;
 }
 
@@ -162,22 +132,4 @@ document.getElementById("iframe").height = 600 ;
 
 &lt;!-- 內建放入的 Dart 原始碼 --&gt;
 
-&lt;p&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD:markdown/20191031-1.md
-&lt;p&gt;&lt;iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823245&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/mass_spring_damping&amp;amp;theme=dark" width="800"&gt;&lt;/iframe&gt;&lt;/p&gt;
-=======
-&lt;p&gt;&lt;iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823244&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/mass_spring_damping&amp;amp;theme=dark" width="800"&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1813c5fb16e484350e025f26e1d1ff0211cb3280:markdown/20191105-1.md&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;</content><category term="2019FallCP"></category></entry></feed>
+&lt;p&gt;&lt;iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823245&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/mass_spring_damping&amp;amp;theme=dark" width="800"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2019FallCP"></category></entry></feed>
